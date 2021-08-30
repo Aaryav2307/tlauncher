@@ -1,0 +1,52 @@
+.tit{
+    font-size: 20px;
+    background-image: linear-gradient(to bottom right, slateblue, violet);
+    padding-top: 50px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    width: 95%;
+    font-family: 'Staatliches', cursive;
+
+}
+
+b{
+
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#b2{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+
+body{
+    background-image: linear-gradient(to bottom left, slateblue, yellow);
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+}
+
+img{
+    width: 20%;
+    height: 40%;
+    border-radius: 15px;
+}
+
+a{
+    border-radius: 15px;
+    background-color: violet;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
